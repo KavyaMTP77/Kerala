@@ -1,1 +1,14 @@
+<!DOCTYPE html>
+<hyml>
+<head><title>KERALA</title></head>
+<body>
+<table border="1" cellpadding="10">
+<tr>
+<th>District</th>
+<th>Headquarters</th>
+<th>Established</th>
+<th>Collector</th>
+</tr>
 
+</table>
+</html>
