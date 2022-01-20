@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<hyml>
+<html>
 <head><title>KERALA</title></head>
 <body>
 <table border="1" cellpadding="10">
@@ -49,8 +49,9 @@
 </tr>
 <tr><td>wayanad</td><td>Kalppetta</td><td>1980</td><td>B.S.Thirumeni</td>
 </tr>
-</body>
 </table>
+</body>
+
 
 
 
